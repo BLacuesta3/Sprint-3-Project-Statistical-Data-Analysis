@@ -68,6 +68,7 @@ Project Methodology:
 
     6) Using t-tests In Order To Reject Or Not Reject Null Hypotheses: 
 
+
     * Project Hypothesis Task: Test the hypothesis that the average revenue from users of the Ultimate and Surf calling plans differs.
     
       Formulate the null and the alternative hypotheses, choose the statistical test, decide on the alpha value.
@@ -79,6 +80,7 @@ Project Methodology:
       Alternative Hypothesis: Average revenue collected from users of Surf and Ultimate plans are not equal.
 
       Hypothesis Task Result: "We reject null hypothesis".  Average revenue collected from users of Surf and Ultiamte Plans are not equal. 
+      
 
     * Project Hypothesis Task: Test the hypothesis that the average revenue from users in the NY-NJ area is different from that of the users from the other regions.
 
