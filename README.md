@@ -93,5 +93,3 @@ Project Methodology:
       Hypothesis Task Result: "We reject null hypothesis". The average revenue collected from users in the NY-NJ area is not equal to the average revenue collected from 
       
       users of other regions.
-   
-* SciPy
