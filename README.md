@@ -21,15 +21,15 @@ Project Datasets:
 
 Project Tools And Libraries Used:
 
-* Pandas
+* pandas
 
-* Matplotlib
+* matplotlib
 
-* NumPy
+* numpy
 
-* Seaborn
+* seaborn
   
-* SciPy
+* scipy
 
 Project Methodology: 
 1) Import The Necessary Libraries
